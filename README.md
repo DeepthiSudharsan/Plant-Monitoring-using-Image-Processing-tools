@@ -1,5 +1,4 @@
-### Basic Plant Monitoring using Image Processing Tools and using NDVI to analyse data from Servers 
-### (Linking with IoT)
+### Basic Plant Monitoring using Image Processing Tools and using NDVI to analyse data from Servers (Linking with IoT)
 
 ## Objective Of the Project:
 
